@@ -20,6 +20,10 @@ deactivate
 
 You can run the notebook live on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/moatsystems/uk_ev_data_analysis/main?filepath=moatsystems_ev_data_analysis.ipynb)
 
+Error: Make this Notebook Trusted to load map: File -> Trust Notebook
+
+> To display the Folium map, click the button in the top-right corner to trust Jupyter Notebook when binder opens .ipynb.
+
 ### Authors
 
 - **Finbarrs Oketunji** _aka 0xnu_ - _Product Owner_ - [0xnu](https://github.com/0xnu)
