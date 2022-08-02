@@ -30,7 +30,7 @@ Error: Make this Notebook Trusted to load map: File -> Trust Notebook
 
 ### License
 
-The script is published under [WTFPL License](LICENSE).
+The script is published under [Sustainable Use License](LICENSE).
 
 ### Copyright
 
